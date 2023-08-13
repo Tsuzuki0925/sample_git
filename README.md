@@ -1,4 +1,6 @@
 # hello-world
 Just another repository
 
-Hubot here, I like Node.js and Coffeescript
+ here, I like Node.js and Coffeescript
+
+I changed
