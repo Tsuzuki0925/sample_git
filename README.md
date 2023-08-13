@@ -6,3 +6,6 @@ Just another repository
 I changed
 
 from develop branch
+
+
+from feature branch
